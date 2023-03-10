@@ -1,0 +1,74 @@
+------------------------------------------------
+# システマティック駅前広場 (pak128)
+# Systematic Station Plaza
+#
+# 製作：しらかみ (@e701pv)
+# by Shirakami
+------------------------------------------------
+#アイテム
+------------------------------------------------
+Obj=roadsign
+Name=SSP_SK_I_t02
+copyright=Shirakami
+intro_year=1902
+intro_month=6
+cost=600
+waytype=water
+min_speed=0
+single_way=0
+icon=> tree02.0.1
+cursor=tree02.0.0,0,16
+Image[0]=tree02.0.0,0,32
+Image[1]=tree02.0.0,0,32
+Image[2]=tree02.0.0,0,32
+Image[3]=tree02.0.0,0,32
+------------------------------------------------
+Obj=roadsign
+Name=SSP_SK_I_t02_4
+copyright=Shirakami
+intro_year=1902
+intro_month=6
+cost=600
+waytype=water
+min_speed=0
+single_way=0
+icon=> tree02.0.2
+cursor=tree02.0.0,0,-16
+Image[0]=tree02.0.0
+Image[1]=tree02.0.0
+Image[2]=tree02.0.0
+Image[3]=tree02.0.0
+------------------------------------------------
+------------------------------------------------
+Obj=roadsign
+Name=SSP_SK_I_t03
+copyright=Shirakami
+intro_year=1902
+intro_month=6
+cost=600
+waytype=water
+min_speed=0
+single_way=0
+icon=> tree03.0.1
+cursor=tree03.0.0,0,16
+Image[0]=tree03.0.0,0,32
+Image[1]=tree03.0.0,0,32
+Image[2]=tree03.0.0,0,32
+Image[3]=tree03.0.0,0,32
+------------------------------------------------
+Obj=roadsign
+Name=SSP_SK_I_t03_4
+copyright=Shirakami
+intro_year=1902
+intro_month=6
+cost=600
+waytype=water
+min_speed=0
+single_way=0
+icon=> tree03.0.2
+cursor=tree03.0.0,0,-16
+Image[0]=tree03.0.0
+Image[1]=tree03.0.0
+Image[2]=tree03.0.0
+Image[3]=tree03.0.0
+------------------------------------------------
