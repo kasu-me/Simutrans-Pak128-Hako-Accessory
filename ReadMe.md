@@ -15,47 +15,56 @@ Simutrans 122.0.1およびOTRP v29.6のPAK128.Japanにて正常に動作する�
 ## 内容物解説
 
 ### 箱積み用 運河アクセサリー類
-- way-object.mk_keikan_wayobjs.pak
-- way-object.mk_grooves.pak
-
-運河wayobj(架線)属性のアクセサリー類です。エントランス、駅名表示、時計、コンビニエンスストア、線、溝などのパーツを収録しており、箱積み駅舎を装飾する形で使うことができます。
-
-くるり様、wa様、HAYATO様の作品を改造させていただきました。
+<dl>
+<dt>way-object.mk_keikan_wayobjs.pak</dt>
+<dt>way-object.mk_grooves.pak</dt>
+<dd>運河wayobj(架線)属性のアクセサリー類です。エントランス、駅名表示、時計、コンビニエンスストア、線、溝などのパーツを収録しており、箱積み駅舎を装飾する形で使うことができます。</dd>
+<dd>くるり様、wa様、HAYATO様の作品を改造させていただきました。</dd>
+</dl>
 
 ### 箱積み用 天井運河
-- way.mk_tenjo_unga.pak
-
-運河属性の屋上です。異なる箱積みで屋上の形状を統一したいときに使用できます。
-
-mew様の作品を改造させていただきました。
+<dl>
+<dt>way.mk_tenjo_unga.pak</dt>
+<dd>運河属性の屋上です。異なる箱積みで屋上の形状を統一したいときに使用できます。</dd>
+<dd>mew様の作品を改造させていただきました。</dd>
+</dl>
 
 ### ペデストリアンデッキ類
 運河属性のペデストリアンデッキを拡張するアドオンです。
 
-- way.SSP_Padway_ds_elv.pak
+<dl>
+<dt>way.SSP_Padway_ds_elv.pak</dt>
+<dd>運河属性の高架ペデストリアンデッキです。しらかみ様の「システマティック駅前広場」を改造させていただきました。</dd>
+</dl>
 
-運河属性の高架ペデストリアンデッキです。しらかみ様の「システマティック駅前広場」を改造させていただきました。
+<dl>
+<dt>roadsign.mk_signs_streetlight.pak</dt>
+<dd>運河信号属性の街灯です。wa様の「箱積み駅舎」を改造させていただきました。</dd>
+</dl>
 
-- roadsign.mk_signs_streetlight.pak
+<dl>
+<dt>pedes_pier.pak</dt>
+<dd>運河架線属性の脚付き側壁です。wilson様の「ペデストリアンデッキセット」を改造させていただきました。</dd>
+</dl>
 
-運河信号属性の街灯です。wa様の「箱積み駅舎」を改造させていただきました。
+<dl>
+<dt>way-object.mk_pedway_plants.pak</dt>
+<dd>運河架線属性の植え込みです。しらかみ様の「システマティック駅前広場」を改造させていただきました。</dd>
+</dl>
 
-- pedes_pier.pak
-
-運河架線属性の脚付き側壁です。wilson様の「ペデストリアンデッキセット」を改造させていただきました。
-
-- SSP_SK_I_tree_ex.pak
-
-運河信号属性の街路樹です。tku様の「運河用 電化属性 遊歩道」を改造させていただきました。
+<dl>
+<dt>SSP_SK_I_tree_ex.pak</dt>
+<dd>運河信号属性の街路樹です。tku様の「運河用 電化属性 遊歩道」を改造させていただきました。</dd>
+</dl>
 
 ### 影
-- way.mk_shadow_ungaroad.pak
-- way.mk_shadow_tram.pak
-- way-object.mk_unga_shadow.pak
-
-運河架線属性･運河属性･併用軌道属性の影です。建物や高架の下にご活用ください。
-
-緩急坂対応版は「double_slope」フォルダ内に格納しております。
+<dl>
+<dt>way.mk_shadow_ungaroad.pak</dt>
+<dt>way.mk_shadow_tram.pak</dt>
+<dt>way-object.mk_unga_shadow.pak</dt>
+<dd>運河架線属性･運河属性･併用軌道属性の影です。建物や高架の下にご活用ください。</dd>
+<dd>緩急坂対応版は「double_slope」フォルダ内に格納しております。</dd>
+</dl>
 
 ## ソースについて
 

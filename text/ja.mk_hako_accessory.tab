@@ -167,3 +167,9 @@ mk_wayobjs_groove_16_noedge
 溝(運河架線･角用･中央)
 mk_wayobjs_groove_32_noedge
 溝(運河架線･角用･上)
+mk_pedway_plant_01
+植え込み(後)
+mk_pedway_plant_02
+植え込み(中)
+mk_pedway_plant_03
+植え込み(前)
